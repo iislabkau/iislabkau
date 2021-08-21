@@ -1,3 +1,2 @@
-# ucsf_jekyll_basic
-a simple base jekyll site
-with the UCSF responsive nav banner this is a easy starter template for a UCSF jekyll site
+# Intelligent and Interactive Systems Lab (IIS Lab) web site at Korea Aerospace University (KAU)
+This website is created based on ``ucsf_jekyll_basic'' template with some modifications.
